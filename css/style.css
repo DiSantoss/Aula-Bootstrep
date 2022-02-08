@@ -1,0 +1,88 @@
+body {
+    font: normal
+    
+}
+
+.navbar {
+    background-color:#34495E ; 
+}
+
+.nav-link {
+    color: aliceblue;
+    
+}
+
+.meta {
+    padding: 10px;
+
+}
+
+.quem-somos {
+    background-color: #839192;
+    
+    font-size: 5px;
+}
+
+.margin {
+    padding-top: 60px; 
+    padding-bottom: 10px;
+  
+}
+
+.parceiros {
+    background-color: #839192;
+    
+    font-size: 5px;
+}
+
+.container {
+ margin-top: 100px;
+}
+
+.hwhats {
+    margin-top: 62px;
+}
+
+.h4 {
+    margin-top:50px
+}
+
+.rounded-circle {
+    margin:50px
+}
+
+.face {
+    margin-bottom: 10px;
+}
+
+.paceros {
+    margin-top: 20px;
+}
+
+.hprivate {
+    margin-top: 118px;
+}
+
+.hgiphy {
+    margin-top: 132px;
+}
+
+
+.face2 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.footer {
+    background-color:#34495E ;
+    padding-top:10px;
+}
+
+.ul {
+    list-style-type: none;
+    
+}
+
+.DEV {
+    margin-left:50px
+}
